@@ -1,1 +1,3 @@
-This is a clone of Bitly written in PHP for your own domain name
+# Kohana PHP Framework, version 3.1 (release)
+
+This is the current release version of [Kohana](http://kohanaframework.org/).
